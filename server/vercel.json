@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/health", "destination": "/api/health" },
+    { "source": "/api/config", "destination": "/api/config" },
+    { "source": "/api/account", "destination": "/api/account" },
+    { "source": "/api/generate", "destination": "/api/generate" },
+    { "source": "/api/billing/verify", "destination": "/api/billing/verify" }
+  ]
+}

@@ -1,0 +1,5 @@
+# Android Studio crea local.properties automáticamente.
+# Ejemplo en Windows:
+# sdk.dir=C:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk
+# Ejemplo en macOS:
+# sdk.dir=/Users/TU_USUARIO/Library/Android/sdk
